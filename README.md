@@ -1,2 +1,2 @@
-# testsitw201701
+# Repositori SITW 2017 Grup 01
 Afegeixo coses
